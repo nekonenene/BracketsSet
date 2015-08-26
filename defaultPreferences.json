@@ -1,0 +1,646 @@
+/*
+ * これは、Brackets で環境設定がサポートされた
+読み取り専用ファイルです。
+ * このファイルは、他のペインで開かれた環境設定ファイル brackets.json を
+ * 変更する際の参照資料として使用します。
+ * Brackets 内で環境設定を使用する方法については、Web ページ
+ *  (https://github.com/adobe/brackets/wiki/How-to-Use-Brackets#preferences) を参照してください。
+ */
+
+{
+	// デフォルト: true
+	"brackets-git.addEndlineToTheEndOfFile": true,
+
+	// デフォルト: AVATAR_COLOR
+	"brackets-git.avatarType": "AVATAR_COLOR",
+
+	"brackets-git.bashShortcut": {},
+
+	// デフォルト: false
+	"brackets-git.clearWhitespaceOnSave": false,
+
+	"brackets-git.commitAllShortcut": {},
+
+	"brackets-git.commitCurrentShortcut": {},
+
+	"brackets-git.dateFormat": {},
+
+	// デフォルト: 1
+	"brackets-git.dateMode": 1,
+
+	// デフォルト: false
+	"brackets-git.debugMode": false,
+
+	// デフォルト: false
+	"brackets-git.enableAdvancedFeatures": false,
+
+	// デフォルト: false
+	"brackets-git.gerritPushref": false,
+
+	// デフォルト: 
+	"brackets-git.gitPath": "",
+
+	// デフォルト: 30
+	"brackets-git.gitTimeout": 30,
+
+	"brackets-git.gotoNextChangeShortcut": {},
+
+	"brackets-git.gotoPrevChangeShortcut": {},
+
+	// デフォルト: true
+	"brackets-git.markModifiedInTree": true,
+
+	// デフォルト: false
+	"brackets-git.normalizeLineEndings": false,
+
+	// デフォルト: Ctrl-Alt-G
+	"brackets-git.panelShortcut": "Ctrl-Alt-G",
+
+	"brackets-git.pullShortcut": {},
+
+	"brackets-git.pushShortcut": {},
+
+	"brackets-git.refreshShortcut": {},
+
+	// デフォルト: false
+	"brackets-git.removeByteOrderMark": false,
+
+	// デフォルト: true
+	"brackets-git.showBashButton": true,
+
+	// デフォルト: true
+	"brackets-git.showReportBugButton": true,
+
+	// デフォルト: false
+	"brackets-git.showTerminalIcon": false,
+
+	// デフォルト: true
+	"brackets-git.stripWhitespaceFromCommits": true,
+
+	// デフォルト: 
+	"brackets-git.terminalCommand": "",
+
+	// デフォルト: 
+	"brackets-git.terminalCommandArgs": "",
+
+	// デフォルト: true
+	"brackets-git.useCodeInspection": true,
+
+	// デフォルト: false
+	"brackets-git.useDifftool": false,
+
+	// デフォルト: false
+	"brackets-git.useGitFtp": false,
+
+	// デフォルト: true
+	"brackets-git.useGitGutter": true,
+
+	// デフォルト: false
+	"brackets-git.useVerboseDiff": false,
+
+	"brackets-icons.icons": {},
+
+	// デフォルト: ionicons
+	"brackets-icons.iconset": "ionicons",
+
+	// デフォルト: true
+	"brackets-icons.secondary": true,
+
+	// If the value of this preference is true, Indent Guides will be visible. If the value is false, Indent Guides will be hidden.
+	"brackets-indent-guides.enabled": false,
+
+	// The color of the indent guides. Can be any valid CSS Color value.
+	"brackets-indent-guides.guideColor": "rgba(128, 128, 128, 0.5)",
+
+	// This value determines the style of the guide: "solid" or "dotted".
+	"brackets-indent-guides.guideStyle": "solid",
+
+	// If the value of this preference is true the first Indent Guide will not be drawn.
+	"brackets-indent-guides.hideFirst": false,
+
+	// デフォルト: true
+	"brackets-paste-and-indent.enabled": "true",
+
+	"bracketstoix.prefs": {
+		"aftersave": {
+			// デフォルト: 
+			"value": []
+		},
+
+		"beforesave": {
+			// デフォルト: 
+			"value": []
+		},
+
+		"commands": {
+			"value": {
+				"hotkeys": {},
+
+				// デフォルト: 
+				"showinctxmenu": [],
+
+				// デフォルト: 
+				"showinmenu": []
+			}
+		},
+
+		"find": {
+			// デフォルト: 
+			"history": []
+		},
+
+		"findre": {
+			// デフォルト: 
+			"history": []
+		},
+
+		"historySize": {
+			// デフォルト: 20
+			"value": 20
+		},
+
+		"isall": {
+			// デフォルト: true
+			"value": true
+		},
+
+		"isignorecase":
+		},
+
+		"isimultiline":
+		},
+
+		"isregexpr": {
+			// デフォルト: true
+			"value": true
+		},
+
+		"isselonly": {
+			// デフォルト: true
+			"value": true
+		},
+
+		"iswordsonly":
+		},
+
+		"js": {
+			// デフォルト: uglifyjs "{{in}}" -o "{{out}}"
+			"value": "uglifyjs "{{in}}" -o "{{out}}""
+		},
+
+		"js6": {
+			"fields": {
+				"autosave":
+				}
+			},
+
+			// デフォルト: traceur --out "{{out}}" --script "{{in}}"
+			"value": "traceur --out "{{out}}" --script "{{in}}""
+		},
+
+		"lihtmlparawrap":
+		},
+
+		"limaxcharsperline": {
+			// デフォルト: 0
+			"value": "0"
+		},
+
+		"linrparagraphs": {
+			// デフォルト: 1
+			"value": "1"
+		},
+
+		"maxcharsperline": {
+			// デフォルト: 80
+			"value": "80"
+		},
+
+		"numSep": {
+			// デフォルト: 
+			"history": [],
+
+			// デフォルト: .\$
+			"value": ".\$"
+		},
+
+		"recentFiles": {
+			// デフォルト: 
+			"files": []
+		},
+
+		"recentSize": {
+			// デフォルト: 20
+			"value": 20
+		},
+
+		"replace": {
+			// デフォルト: 
+			"history": []
+		},
+
+		"scss": {
+			"fields": {
+				"autosave":
+				}
+			},
+
+			// デフォルト: sass --sourcemap "{{in}}" "{{out}}"
+			"value": "sass --sourcemap "{{in}}" "{{out}}""
+		},
+
+		"showcxtedit": {
+			// デフォルト: true
+			"value": true
+		},
+
+		"splitMarker": {
+			// デフォルト: ,
+			"value": ","
+		},
+
+		"splitMarkerExtr": {
+			// デフォルト: \t
+			"value": "\t"
+		},
+
+		"startNum": {
+			// デフォルト: 1
+			"value": 1
+		},
+
+		"startValue": {
+			// デフォルト: 
+			"history": []
+		},
+
+		"stepValue": {
+			// デフォルト: 
+			"history": []
+		},
+
+		"tabSize": {
+			// デフォルト: 2
+			"value": 2
+		},
+
+		"tobreakwords":
+		},
+
+		"tools": {
+			// デフォルト: 
+			"value": []
+		},
+
+		"version":
+		},
+
+		"webSearch": {
+			// デフォルト: https://www.google.com/search?q=
+			"value": "https://www.google.com/search?q="
+		}
+	},
+
+	// 中括弧、角括弧、丸括弧を自動的に閉じるには true
+	"closeBrackets": false,
+
+	// 「作業中ファイル」コンテキストメニューから「上をすべて閉じる」を削除するには false
+	"closeOthers.above": true,
+
+	// 「作業中ファイル」コンテキストメニューから「下をすべて閉じる」を削除するには false
+	"closeOthers.below": true,
+
+	// 「作業中ファイル」コンテキストメニューから「他をすべて閉じる」を削除するには false
+	"closeOthers.others": true,
+
+	// タグ終了オプションを設定します
+	"closeTags": {
+		// 自動終了させないタグの配列
+		"dontCloseTags": [],
+
+		// 表示時に空白行があるタグの配列
+		"indentTags": [],
+
+		// 終了タグの / の入力時に閉じる
+		"whenClosing": true,
+
+		// 開始タグの > の入力時に閉じる
+		"whenOpening": true
+	},
+
+	// インデントレベルの変更時に、折りたたみ可能なセクションマーカーを常に生成するには true
+	"code-folding.alwaysUseIndentFold": false,
+
+	// コード折りたたみを有効にするには true
+	"code-folding.enabled": true,
+
+	// 余白の上にマウスのポインターを置いたときにのみセクション折りたたみマーカーを表示させるには true
+	"code-folding.hideUntilMouseover": false,
+
+	// 「すべて折りたたむ」を適用するレベル数を制限します
+	"code-folding.maxFoldLevel": 2,
+
+	// 次の行数に達したら折りたたみ可能なセクションのアイコンを表示する
+	"code-folding.minFoldSize": 2,
+
+	// ファイルまたはプロジェクトを閉じて再度開く場合に折りたたまれたセクションを記憶するには true
+	"code-folding.saveFoldStates": true,
+
+	// HTML 属性ヒントを有効化/無効化
+	"codehint.AttrHints": true,
+
+	// CSS/LESS/SCSS プロパティヒントを有効化/無効化
+	"codehint.CssPropHints": true,
+
+	// JavaScript のコードヒントを有効化/無効化
+	"codehint.JSHints": true,
+
+	// 環境設定のコードヒントを有効化/無効化
+	"codehint.PrefHints": true,
+
+	// SVG のコードヒントを有効化/無効化
+	"codehint.SVGHints": true,
+
+	// HTML エンティティヒントを有効化/無効化
+	"codehint.SpecialCharHints": true,
+
+	// HTML タグヒントを有効化/無効化
+	"codehint.TagHints": true,
+
+	// HTML や CSS/LESS/SCSS の URL ヒントを有効化/無効化
+	"codehint.UrlCodeHints": true,
+
+	// デフォルト: true
+	"codehint.phonegapHints": true,
+
+	// ステータスバーにエラーを表示するには true
+	"debug.showErrorsInStatusBar": false,
+
+	// デフォルト: true
+	"denniskehrig.ShowWhitespace.checked": true,
+
+	// ドラッグ＆ドロップ機能を有効化/無効化
+	"dragDropText": false,
+
+	// デフォルト: C:/Users/Ryosuke_2/Documents/eqFTP Projects
+	"eqFTP.defaultSettingsPathPref": "C:/Users/Ryosuke_2/Documents/eqFTP Projects",
+
+	// 
+	"eqFTP.projectsPaths": [],
+
+	// デフォルト: false
+	"eqFTP.useEncryption": "false",
+
+	// true to enable instant search
+	"findInFiles.instantSearch": true,
+
+	// true to enable node based search
+	"findInFiles.nodeSearch": true,
+
+	// フォントファミリーを変更
+	"fonts.fontFamily": "'SourceCodePro-Medium', ＭＳ ゴシック, 'MS Gothic', monospace",
+
+	// Change font size; e.g. 13px
+	"fonts.fontSize": "12px",
+
+	// 正常性データのトラッキングを有効にする
+	"healthData.healthDataTracking": true,
+
+	// ドキュメント全体の一致する文字列の自動ハイライト表示を有効にします
+	"highlightMatches": false,
+
+	// タブで現在選択しているコードヒントを挿入するには true
+	"insertHintOnTab": false,
+
+	// Tern が制御不能になる原因として検出されたファイルの一覧
+	"jscodehints.detectedExclusions": [],
+
+	// ファイルの認識時に Tern がタイムアウトするまでの時間
+	"jscodehints.inferenceTimeout": 30000,
+
+	// . の入力時に JS コードヒントを自動表示しない場合は true
+	"jscodehints.noHintsOnDot": false,
+
+	"jshint.globals": {},
+
+	"jshint.options": {
+		// デフォルト: true
+		"undef": true
+	},
+
+	// デフォルト: false
+	"jshint.scanProjectOnly": false,
+
+	// 初期設定で JS 構文チェックのオプションが付いたオブジェクト
+	"jslint.options": {
+		// 代入式を許可するには true
+		"ass": false,
+
+		// ビット演算子を許可するには true
+		"bitwise": false,
+
+		// 標準ブラウザーのグローバルを事前定義する必要がある場合は true
+		"browser": false,
+
+		// Google Closure の慣用句を許可するには true
+		"closure": false,
+
+		// continue ステートメントを許可するには true
+		"continue": false,
+
+		// CouchDB グローバルを事前定義する必要がある場合は true
+		"couch": false,
+
+		// デバッガーステートメントを許可するには true
+		"debug": false,
+
+		// 開発に役立つブラウザーグローバルを事前定義する必要がある場合は true
+		"devel": false,
+
+		// == と != を許可するには true
+		"eqeq": false,
+
+		// ES6 グローバルを事前定義する必要がある場合は true
+		"es6": false,
+
+		// eval を許可するには true
+		"evil": false,
+
+		// フィルターされていない「for ... in」を許可するには true
+		"forin": false,
+
+		// タブ幅を指定
+		"indent": 0,
+
+		// 報告する最大警告数
+		"maxerr": 0,
+
+		// 1 行内の最大文字数
+		"maxlen": 0,
+
+		// 小文字のコンストラクターを許可するには true
+		"newcap": false,
+
+		// Node.js グローバルを事前定義する必要がある場合は true
+		"node": false,
+
+		// 識別子での先頭のアンダースコアを許可するには true
+		"nomen": false,
+
+		// 最初のエラー発生時に停止するには true
+		"passfail": false,
+
+		// ++ と -- を許可するには true
+		"plusplus": false,
+
+		// 正規表現の . と [^...]. を許可するには true
+		"regexp": false,
+
+		// Rhino グローバルを事前定義する必要がある場合は true
+		"rhino": false,
+
+		// use strict プラグマの不足を許可するには true
+		"sloppy": false,
+
+		// ブロック ('...Sync') メソッドを使用できる場合は true。
+		"stupid": false,
+
+		// 不完全な登録を許可するには true
+		"sub": false,
+
+		// TODO コメントを許可するには true
+		"todo": false,
+
+		// 未使用のパラメーターを許可するには true
+		"unparam": false,
+
+		// 関数で 2 つ以上の変数を許可するには true
+		"vars": false,
+
+		// ホワイトスペースのルールを無視するには true
+		"white": false
+	},
+
+	// ファイル拡張子から言語名への追加のマッピング
+	"language.fileExtensions": {},
+
+	// ファイル名から言語名への追加のマッピング
+	"language.fileNames": {},
+
+	// 非同期の構文チェックがタイムアウトするまでの時間 (ミリ秒)
+	"linting.asyncTimeout": 10000,
+
+	// 構文チェックパネルを閉じるには true
+	"linting.collapsed": false,
+
+	// コード検証を有効にするには true
+	"linting.enabled": true,
+
+	// 最初に実行する構文チェックの配列
+	"linting.prefer": [],
+
+	// linting.prefer のみで指定されたプロバイダーを実行するには true
+	"linting.usePreferredOnly": false,
+
+	// 試験ライブプレビューを有効にするには true
+	"livedev.multibrowser": false,
+
+	// デフォルト: true
+	"markdown-preview.syncScroll": true,
+
+	// デフォルト: clean
+	"markdown-preview.theme": "clean",
+
+	// デフォルト: false
+	"markdown-preview.useGFM": false,
+
+	// 一度に表示される最大コードヒント
+	"maxCodeHints": 50,
+
+	// 
+	"mikaeljorhult.bracketsAutoprefixer.browsers": [],
+
+	// デフォルト: false
+	"mikaeljorhult.bracketsAutoprefixer.enabled": false,
+
+	// デフォルト: false
+	"mikaeljorhult.bracketsAutoprefixer.visualCascade": false,
+
+	// 
+	"phonegapcodehints.detectedExclusions": [],
+
+	// デフォルト: 10000
+	"phonegapcodehints.inferenceTimeout": 10000,
+
+	// 
+	"php-sig.php-smarthints.filteredFunctionList": [],
+
+	// デフォルト: false
+	"php-sig.php-smarthints.isPhpProject": false,
+
+	// 分割ビューで環境設定ファイルを開けないようにするには false
+	"preferencesView.openPrefsInSplitView": true,
+
+	// 左側/上部のペインでユーザーの環境設定ファイルを開くには false
+	"preferencesView.openUserPrefsInSecondPane": true,
+
+	// 拡張機能のインストールに使用するプロキシサーバーの URL
+	"proxy": "",
+
+	// クイックビューを有効にするには true
+	"quickview.enabled": true,
+
+	// URL のない拡張機能の画像プレビューを表示するには true
+	"quickview.extensionlessImagePreview": true,
+
+	// ドキュメントの終端を超えたスクロールを有効にするには true
+	"scrollPastEnd": false,
+
+	// すべてのコードヒントを無効にするには false
+	"showCodeHints": true,
+
+	// 文字が選択されているときに点滅カーソルを表示したままにします
+	"showCursorWhenSelecting": false,
+
+	// コードの左の「余白」に行番号を表示するには true
+	"showLineNumbers": true,
+
+	// デフォルト: click
+	"sidebarplus.triggermode": "click",
+
+	// 新規ブロックの作成時に自動的にインデントを設定
+	"smartIndent": true,
+
+	// ソフトタブの動作を無効にするには false
+	"softTabs": true,
+
+	// プロジェクトツリーでディレクトリが先に来るように並べ替えるには true
+	"sortDirectoriesFirst": true,
+
+	// スペースベースのインデントに用いるスペースの数
+	"spaceUnits": 4,
+
+	// 組み込みのサーバーがライブプレビューで使用するポートの番号
+	"staticserver.port": 0,
+
+	// カーソルが置かれた線の背景色をハイライト表示するには true
+	"styleActiveLine": false,
+
+	// タブに表示するスペースの数
+	"tabSize": 4,
+
+	// Brackets のテーマを選択
+	"themes.theme": "light-theme",
+
+	// カスタムスクロールバーを許可するには true
+	"themes.themeScrollbars": true,
+
+	// Inline Color Editor で大文字の 16 進カラーを生成するには true
+	"uppercaseColors": false,
+
+	// スペースの代わりにタブを使用するには true
+	"useTabChar": false,
+
+	// ビューポートの幅を超える行を折り返す
+	"wordWrap": true
+}

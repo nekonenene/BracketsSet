@@ -1,0 +1,268 @@
+{
+    "fonts.fontSize": "12px",
+    "fonts.fontFamily": "'SourceCodePro-Medium', ＭＳ ゴシック, 'MS Gothic', monospace",
+    "insertHintOnTab": true,
+    "brackets-git.gitPath": "git",
+    "brackets-git.stripWhitespaceFromCommits": true,
+    "brackets-git.addEndlineToTheEndOfFile": true,
+    "brackets-git.removeByteOrderMark": false,
+    "brackets-git.normalizeLineEndings": false,
+    "brackets-git.useGitGutter": true,
+    "brackets-git.markModifiedInTree": true,
+    "brackets-git.showBashButton": true,
+    "brackets-git.showReportBugButton": true,
+    "brackets-git.useCodeInspection": true,
+    "brackets-git.useGitFtp": false,
+    "brackets-git.useVerboseDiff": false,
+    "brackets-git.useDifftool": false,
+    "brackets-git.showTerminalIcon": false,
+    "brackets-git.clearWhitespaceOnSave": false,
+    "brackets-git.avatarType": "AVATAR_COLOR",
+    "brackets-git.dateMode": 1,
+    "brackets-git.dateFormat": null,
+    "brackets-git.enableAdvancedFeatures": false,
+    "brackets-git.panelShortcut": "Ctrl-Alt-G",
+    "brackets-git.commitCurrentShortcut": null,
+    "brackets-git.commitAllShortcut": null,
+    "brackets-git.bashShortcut": null,
+    "brackets-git.pushShortcut": null,
+    "brackets-git.pullShortcut": null,
+    "brackets-git.gotoPrevChangeShortcut": null,
+    "brackets-git.gotoNextChangeShortcut": null,
+    "brackets-git.refreshShortcut": null,
+    "brackets-git.gitTimeout": 30,
+    "brackets-git.terminalCommand": "C:\\Program Files (x86)\\Git\\Git Bash.vbs",
+    "brackets-git.terminalCommandArgs": "$1",
+    "brackets-git.debugMode": false,
+    "me.drewh.jsbeautify.on_save": false,
+    "dnbard.documents-toolbar.icons": true,
+    "dnbard.documents-toolbar.smallIcons": false,
+    "dnbard.documents-toolbar.tooltip": false,
+    "dnbard.documents-toolbar.close_left": false,
+    "dnbard.documents-toolbar.workingFiles": true,
+    "dnbard.documents-toolbar.brackets_font": true,
+    "dnbard.documents-toolbar.grayscaleIcons": false,
+    "dnbard.documents-toolbar.showCloseButton": true,
+    "linting.enabled": true,
+    "brackets-indent-guides.enabled": true,
+    "brackets-icons.iconset": "ionicons",
+    "linting.collapsed": true,
+    "livedev.multibrowser": false,
+    "hirse.beautify.onSave": true,
+    "open.in.browser.extensionFileDefault": [
+        "jpg",
+        "jpeg",
+        "gif",
+        "png",
+        "ico"
+    ],
+    "open.in.browser.extensionFileChrome": [
+        "html",
+        "htm"
+    ],
+    "brackets-icons.secondary": true,
+    "quickview.enabled": true,
+    "brackets-css-color-preview.enabled": true,
+    "mikaeljorhult.bracketsAutoprefixer.enabled": true,
+    "eqFTP.projectsPaths": [
+        "C:\\Users\\Ryosuke_2\\Documents\\Me_Document\\hato-neko_x0_1"
+    ],
+    "brackets-synapse.server-settings": "[{\"host\":\"hato-neko.x0.com\",\"port\":\"21\",\"user\":\"hato-neko\",\"password\":\"cUagain3q3\",\"dir\":\"\",\"index\":1}]",
+    "eqFTP.defaultSettingsPathPref": "C:/Users/Ryosuke_2/Documents/eqFTP Projects",
+    "eqFTP.useEncryption": false,
+    "denniskehrig.ShowWhitespace.checked": false,
+    "markdown-preview.syncScroll": true,
+    "markdown-preview.useGFM": true,
+    "closeBrackets": false,
+    "mikaeljorhult.bracketsAutoprefixer.visualCascade": true,
+    "mikaeljorhult.bracketsAutoprefixer.browsers": [
+        "> 1%",
+        "last 2 versions",
+        "Firefox ESR",
+        "Opera 12.1"
+    ],
+    "themes.theme": "os-x-style-dark-theme",
+    "styleActiveLine": false,
+    "bracketstoix.prefs": {
+        "version": {
+            "value": "3.2"
+        },
+        "commands": {
+            "value": {
+                "showinmenu": [
+                    "uppercase",
+                    "lowercase",
+                    "capitalize",
+                    "camelcase",
+                    "htmlencode",
+                    "htmldecode",
+                    "urlencode",
+                    "join",
+                    "split",
+                    "number",
+                    "reverse",
+                    "trimleading",
+                    "trimtrailing",
+                    "markdowntrimtrailing",
+                    "sortascending",
+                    "sortdescending",
+                    "removeduplicates",
+                    "removeemptylines",
+                    "unixtowin",
+                    "wintounix",
+                    "singleslashtodouble",
+                    "doubletosingleslash",
+                    "singlequotetodouble",
+                    "doubletosinglequote",
+                    "togglequote",
+                    "tabtospace",
+                    "spacetotab",
+                    "rgb-hex",
+                    "untag",
+                    "tag",
+                    "breaklineat",
+                    "loremipsum",
+                    "functionjsdoc",
+                    "declarejslintglobal",
+                    "extractortoix",
+                    "replacetoix",
+                    "openurl",
+                    "websearch",
+                    "browsefile",
+                    "recentfiles",
+                    "copyfilename",
+                    "copyfullname",
+                    "regnize",
+                    "htmlreport",
+                    "compiler",
+                    "execute",
+                    "commands",
+                    "commandsmapper",
+                    "options",
+                    "help",
+                    "about"
+                ],
+                "showinctxmenu": [
+                    "openurl",
+                    "websearch"
+                ],
+                "hotkeys": {
+                    "openurl": "Alt-J",
+                    "websearch": "Alt-G"
+                }
+            }
+        },
+        "splitMarker": {
+            "value": ","
+        },
+        "splitMarkerExtr": {
+            "value": "\\t"
+        },
+        "historySize": {
+            "value": 20
+        },
+        "recentSize": {
+            "value": 20
+        },
+        "showcxtedit": {
+            "value": true
+        },
+        "recentFiles": {
+            "files": []
+        },
+        "startNum": {
+            "value": 1
+        },
+        "numSep": {
+            "value": ".\\$",
+            "history": []
+        },
+        "tabSize": {
+            "value": 4
+        },
+        "findre": {
+            "value": "",
+            "history": []
+        },
+        "find": {
+            "value": "<h2>こんにちは</h2>",
+            "history": []
+        },
+        "replace": {
+            "value": "",
+            "history": []
+        },
+        "startValue": {
+            "value": "",
+            "history": []
+        },
+        "stepValue": {
+            "value": "",
+            "history": []
+        },
+        "iswordsonly": {
+            "value": false
+        },
+        "isregexpr": {
+            "value": true
+        },
+        "isignorecase": {
+            "value": false
+        },
+        "isimultiline": {
+            "value": false
+        },
+        "isall": {
+            "value": true
+        },
+        "isselonly": {
+            "value": true
+        },
+        "webSearch": {
+            "value": "https://www.google.com/search?q="
+        },
+        "js6": {
+            "value": "traceur --out \"{{out}}\" --script \"{{in}}\"",
+            "fields": {
+                "autosave": {
+                    "value": false
+                }
+            }
+        },
+        "scss": {
+            "value": "sass --sourcemap \"{{in}}\" \"{{out}}\"",
+            "fields": {
+                "autosave": {
+                    "value": false
+                }
+            }
+        },
+        "js": {
+            "value": "uglifyjs \"{{in}}\" -o \"{{out}}\""
+        },
+        "linrparagraphs": {
+            "value": "1"
+        },
+        "limaxcharsperline": {
+            "value": "0"
+        },
+        "lihtmlparawrap": {
+            "value": ""
+        },
+        "maxcharsperline": {
+            "value": "80"
+        },
+        "tobreakwords": {
+            "value": false
+        },
+        "beforesave": {
+            "value": []
+        },
+        "aftersave": {
+            "value": []
+        },
+        "tools": {
+            "value": []
+        }
+    }
+}

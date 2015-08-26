@@ -1,0 +1,23 @@
+<p>
+<input type="text" placeholder="Search for plugin" id="cordova-plugin-search" disabled>
+<button id="cordova-plugin-add">Add Plugin</button>
+</p>
+
+<table class="table table-striped row-highlight table-condensed" id="cordova-plugin-table">
+	<thead>
+		<tr>
+			<td>Plugin</td>
+			<td>Version</td>
+			<td>Options</td>
+		</tr>
+	</thead>
+	<tbody>
+    {{#plugins}}
+        <tr>
+            <td>{{name}} ({{id}})</td>
+            <td>{{version}}</td>
+            <td><a class="removePlugin" data-plugin="{{id}}">Remove</a></td>
+        </tr>
+    {{/plugins}}
+    </tbody>
+</table>

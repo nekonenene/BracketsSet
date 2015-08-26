@@ -1,0 +1,10 @@
+{
+    "documentation": "https://github.com/adobe/brackets/wiki/User-Key-Bindings",
+    "overrides": {
+        "Alt-Space": "edit.showCodeHints",
+        "Alt-C": "mikailcolak.bracketsColorPicker.show",
+        "Ctrl-+": "edit.lineComment",
+        "Ctrl-Shift-+": "edit.blockComment",
+        "Ctrl-Q": "navigate.toggleQuickDocs"
+    }
+}

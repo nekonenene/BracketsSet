@@ -1,0 +1,19 @@
+{
+    "title": "Visual Studio",
+    "name": "visual-studio",
+    "description": "Visual Studio Theme for Brackets",
+    "version": "1.0.0",
+    "author": "Miguel Castillo <mahchagnu@gmail.com>",
+    "homepage": "https://github.com/Brackets-Themes/VisualStudio",
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/Brackets-Themes/VisualStudio.git"
+    },
+    "engines": {
+        "brackets": ">=0.42.0"
+    },
+    "theme": {
+        "file": "main.less"
+    },
+    "screenshot": "screenshot.png"
+}
